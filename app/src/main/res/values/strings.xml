@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Aspire Todo</string>
+
+    <!-- Screen Titles -->
+    <string name="todo_list_title">My Tasks</string>
+    <string name="add_todo_title">Add Todo</string>
+    <string name="edit_todo_title">Edit Todo</string>
+
+    <!-- Fields -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- States -->
+    <string name="loading">Loading…</string>
+    <string name="empty_list">No tasks yet, Please add your new task</string>
+
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+
+    <string name="back">Back</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="task_status">Task is %1$s</string>
+
+</resources>
